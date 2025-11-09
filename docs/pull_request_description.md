@@ -1,0 +1,3 @@
+# Remove stock value stat
+
+This PR removes the Stock Value stat card and all related code from the Dashboard component, including state management and calculation.
